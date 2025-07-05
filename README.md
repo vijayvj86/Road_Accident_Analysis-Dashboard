@@ -44,6 +44,10 @@ This Power BI project provides a comprehensive analysis of road accident data. T
 - Incorporate real-time data APIs for live dashboard updates  
 - Add predictive modeling for accident forecasting  
 - Integrate geospatial visuals using Power BI maps
+## Result
+
+   ![image](https://github.com/user-attachments/assets/456551db-0e47-4917-8ac8-685ecc2b1661)
+
 
 ## 👨‍💻 Author
 
